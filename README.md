@@ -1,6 +1,6 @@
 # Project: Recipes
 
-Odin-Recipes Repository
+## Odin-Recipes Repository
 
 ## Things I have learned so far for this project:
 
@@ -13,7 +13,7 @@ Odin-Recipes Repository
 ## Reflections after doing the project:
 
 - Got used to basic html boilerplate
-- Currect use of headings
+- Correct use of headings
 - Paragraphs incorporated with importance and emphasis
 - Proper use of links and images
 - Used ordered and unordered list
