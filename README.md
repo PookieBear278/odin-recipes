@@ -12,14 +12,14 @@ Odin-Recipes Repository
 
 ## Reflections after doing the project:
 
--Got used to basic html boilerplate
--Currect use of headings
--Paragraphs incorporated with importance and emphasis
--Proper use of links and images
--Used ordered and unordered list
--File structure
--Commit message conventions followed
--File viewed in web using github
+- Got used to basic html boilerplate
+- Currect use of headings
+- Paragraphs incorporated with importance and emphasis
+- Proper use of links and images
+- Used ordered and unordered list
+- File structure
+- Commit message conventions followed
+- File viewed in web using github
 
 
 ## Project Link
